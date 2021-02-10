@@ -1,0 +1,15 @@
+DDL(Data definition language) : CREATE , ALTER, DROP
+- auto commit;
+
+
+DML(Data manipulation language) : INSERT, UPDATE, DELETE
+-explicitly commited;
+
+
+TCL(Transaction control language) : COMMIT, ROLLBACK
+
+
+
+TQL(Transaction query langugae) : 
+SELECT - to see the data
+WHERE-how uniquely u can identify your data
